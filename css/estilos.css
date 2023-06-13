@@ -1,0 +1,56 @@
+header{
+    background-color: beige;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+    height: 150px;
+    width: 250x;
+}
+h1{
+    font-size: 100px;
+}
+body{
+    background-color:wheat ;
+
+}
+ol{
+    position: sticky;
+    top: 0;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    list-style: none;
+    }
+p{
+ color: black;
+}
+h5{
+    color: black;
+}
+
+form{
+    background-image: url(https://www.elementsspacr.com/wp-content/uploads/2017/08/spa-elements.jpg);
+}
+.contenedor{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.contenedor img {
+    width: 350px;
+    height: 350px;
+}
+h2{
+    background-color: antiquewhite;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+}
+.tratamientos p{
+    background-color: white;
+}
